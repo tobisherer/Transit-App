@@ -1,4 +1,4 @@
 
 //Get station info and arrival/departure times
 
-// Parse the data for use later
+// Parse the data for use later, save it in file system
