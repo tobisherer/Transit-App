@@ -1,10 +1,11 @@
 /* This file will gather data from Metro Transit LA and parse the
 /* data for use when displaying route information */
 
-//Get station info and arrival/departure times
+//Get route info and arrival/departure times
 void getStationInfo()
 {
   // request information from API and 
+  // use API calls to get stops for particular route, arrival predictions for each stop, etc
   // call parseData(data) to parse data retrieved
 }
 
