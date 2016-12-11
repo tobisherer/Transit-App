@@ -13,7 +13,5 @@ void getStationInfo()
 void parseData(data)
 {
   //  convert data retrieved into string
-  //  compare with previous entries
-  //  if there is a change, call update_display()
-  //  else, do nothing
+  //  call route_change()
 }
