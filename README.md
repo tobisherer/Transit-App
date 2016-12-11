@@ -13,6 +13,7 @@ Lessons learned:
 Good things:
 - Learned how to work with GitHub
 - Found my limitations and some weaknesses, so I can get to work on them now.
+- Discovered different ways to start building an app
 - Learned A LOT!
 
 Did what I could with extremely limited time, previous engagements, strict work schedule with tight, looming deadlines. 
