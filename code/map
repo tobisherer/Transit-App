@@ -17,3 +17,9 @@ void display_updates()
   // update route information and display for user
 }
 
+
+void UserInput ()
+{
+  // collect information from the user, station and time
+  // save input information to be accessed by
+}
