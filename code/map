@@ -5,14 +5,15 @@
 //  This function should be called periodically to see if route information has been changed
 void route_change ()
 {
-  //is there a change in time or station information
-  //if yes call function to display updates
-  //else, no chang
+  //  compare new data with previous data
+  //  if there is a change, call update_display()
+  //  else, do nothing
+  //  replace old_data with new_data
   
 }
 
 //  If there is a change in routes this function is called to update the changes
-void display_updates()
+void update_display()
 {
   // update route information and display for user
 }
@@ -21,5 +22,5 @@ void display_updates()
 void UserInput ()
 {
   // collect information from the user, station and time
-  // save input information to be accessed by
+  // save input information to be accessed by update_displayu
 }
