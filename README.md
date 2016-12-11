@@ -16,7 +16,7 @@ Good things:
 - Discovered different ways to start building an app
 - Learned A LOT!
 
-Did what I could with extremely limited time, previous engagements, strict work schedule with tight, looming deadlines. 
+Did what I could with extremely limited time, previous engagements, demanding work schedule with tight, looming deadlines. 
 My hope is to show my ability to problem solve, to not give up, to learn as I go.  
 Prayful that the potential is enough to move on to the next step. 
 Eager to learn, even if it's on my own.  Ready to continue personal and professional growth.
