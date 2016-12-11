@@ -2,6 +2,12 @@
 // Along the route show stops
 // Give user ability to choose stop and display arrival and departure time for that stop
 
+
+void init()
+{
+  // initialize all functions and variables
+}
+
 //  This function should be called periodically to see if route information has been changed
 void route_change ()
 {
@@ -16,11 +22,18 @@ void route_change ()
 void update_display()
 {
   // update route information and display for user
+  // list of all stations along route
+  // display all times of departure/arrival at each station along the route
+  // is there an update from Metro Transit and this is at least the second time the function has been called
+  // has a train been delayed
+  // warn user by displaying DELAY
+  // is there a cancellation?
+  // display CANCELLED
 }
 
 
 void UserInput ()
 {
   // collect information from the user, station and time
-  // save input information to be accessed by update_displayu
+  // save input information to be accessed by update_display()
 }
